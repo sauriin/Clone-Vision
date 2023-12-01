@@ -13,7 +13,7 @@ This repository contains the code for a clone site inspired by Apple's Vision. I
 
 - Custom Styling: Implements CSS3 features for custom styling, mimicking the visual appeal of Apple's Vision page.
 
--GitHub Pages Deployment: Easily deployable to GitHub Pages for   convenient hosting and showcasing the clone site.
+- GitHub Pages Deployment: Easily deployable to GitHub Pages for   convenient hosting and showcasing the clone site.
 
 
 ## Technologies Used
